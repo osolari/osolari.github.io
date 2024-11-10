@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr. Omid Shams Solari
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Omid
+last_name: Shams Solari
 
 # Status emoji
 status:
@@ -20,42 +20,42 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Lead AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Natera Inc.
+    url: https://natera.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:solari@berkeley.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/instagram
+    # url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  # - icon: academicons/orcid
+    # url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Large Language Models
+  - Statistical Learning and Inference
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Statistics (Emphasis on Computer Science (Machine Learning))
+    institution: University of California, Berkeley
+    date_start: 2016-09-01
+    date_end: 2020-06-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -72,12 +72,11 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MA Applied Mathematics
+    institution: University of California, Berkeley
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -182,5 +181,7 @@ awards:
 ---
 
 ## About Me
+
+Omid Shams Solari is the Lead AI Research Scientist at Natera Inc.
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
