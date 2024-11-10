@@ -182,6 +182,6 @@ awards:
 
 ## About Me
 
-Omid Shams Solari is the Lead AI Research Scientist at Natera Inc.
+Omid Shams Solari is the Lead AI Research Scientist at Natera Inc. Previously
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
