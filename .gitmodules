@@ -1,0 +1,9 @@
+[submodule "adritian-free-hugo-theme"]
+	path = adritian-free-hugo-theme
+	url = https://github.com/zetxek/adritian-free-hugo-theme
+[submodule "themes/cv"]
+	path = themes/cv
+	url = https://github.com/zetxek/adritian-free-hugo-theme
+[submodule "themes/sada"]
+	path = themes/sada
+	url = https://github.com/darshanbaral/sada.git
