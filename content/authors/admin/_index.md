@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Omid Shams Solari
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ɔːmɪ̈d ʃæms sɔːlɑːrɪ
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Omid
+last_name: Shams Solari
 
 # Status emoji
 status:
-  icon: ☕️
+#  icon: ☕️icon
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,40 +20,43 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Lead AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of California, Berkeley
+    url: https://www.berkeley.edu/
+  - name: Natera Inc.
+    url: https://www.natera.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:solari@berkeley.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/omidsolari
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/osolari
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/osolari
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=duHKwCMAAAAJ&hl=en
+#  - icon: academicons/orcid
+#    url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Explainable AI, Multi-Modal AI, Sequence Models
+  - Language Models, e.g. DNA/protein Language Models
+  - Statistical/Machine Learning 
+  - Biomarker Discovery
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Statistics (Emphasis on Optimization and Machine learning)
+    institution: University of California, Berkeley
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,19 +64,19 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MA Applied Mathematics
+    institution: University of California, Berkeley
+    date_start: 2012-01-01
+    date_end: 2015-12-31
     summary: |
       GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: B.Sc. Computational Fluid Dynamics
+    institution: Sharif University of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -84,8 +87,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Lead AI Research Scientist, Head of Epigenomics ECD/tfMRD Algorithms
+    company_name: Natera Inc.
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -95,7 +98,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+  - position: AI Lead Research Scientist
     company_name: X
     company_url: ''
     company_logo: ''
@@ -112,15 +115,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Pytorch Ecosystem (Lightning, Geometric, Ray, Pyro, fastai, Captum)
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Statistical Modeling and Inference (Multi-View Learning, High-Dimensional Learning, Variational Inference)
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: 
         description: ''
         percent: 40
         icon: circle-stack
@@ -128,18 +131,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Welding (MIG, TIG, Stick, Spot)
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: work #person-simple-walk
+      - name: Algorithmic Trading
         description: ''
         percent: 100
         icon: cat
       - name: Photography
         description: ''
         percent: 80
-        icon: camera
+        icon: trash
 
 languages:
   - name: English
@@ -183,4 +186,5 @@ awards:
 
 ## About Me
 
-Dr. Omid Shams Solari
+Dr. Omid Shams Solari is currently the Lead AI Research Scientist and Statistician at Natera Inc. His research interests include AI language models,
+e.g. DNA/protein language models, multi-modal AI, interpretable AI, high-dimensional statistical learning and inference.
