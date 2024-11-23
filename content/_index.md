@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/OmidShamsSolari_cv.pdf
     design:
       css_class: dark
       background:
@@ -36,11 +36,8 @@ sections:
       title: '📓 Research Interests' #'📚 
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I'm currently a Lead AI Research Scientist and head of Epigenetics Biomarker Discovery Algorithms at Natera Inc. I am currently using language models to predict 
+        protein post-translational modifications (PTM) from peptide sequences and model neoantigen immunogenicity as a function of PTM likelihoods in a subsequent vision transformer (ViT) model.
     design:
       columns: '1'
   - block: collection
@@ -77,7 +74,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Posts
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

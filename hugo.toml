@@ -1,3 +1,6 @@
 baseURL = 'solari.stat.berkeley.edu'
 languageCode = 'en-us'
 title = 'Omid Shams Solari, Ph.D.'
+
+[params.meta]
+favicon = false
