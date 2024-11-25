@@ -3,7 +3,7 @@ title: 'Pattern of DNA methylation in Daphnia: evolutionary perspective'
 authors:
 - Jouni Kvist
 - Camila Gonçalves Athanàsio
-- Omid Shams Solari
+- admin
 - James B Brown
 - John K Colbourne
 - Michael E Pfrender

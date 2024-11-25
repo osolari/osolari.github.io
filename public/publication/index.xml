@@ -5,20 +5,12 @@
     <link>//localhost:1313/publication/</link>
       <atom:link href="//localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Nov 2024 20:59:41 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
       <link>//localhost:1313/publication/</link>
     </image>
-    
-    <item>
-      <title>Pattern of DNA methylation in Daphnia</title>
-      <link>//localhost:1313/publication/kvistpattern/</link>
-      <pubDate>Sun, 24 Nov 2024 20:59:41 +0000</pubDate>
-      <guid>//localhost:1313/publication/kvistpattern/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Circulating differential methylation allele fraction (DMAF) strongly correlates with circulating tumor DNA (ctDNA) variant allele fraction (VAF)</title>
