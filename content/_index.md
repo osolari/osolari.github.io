@@ -50,9 +50,10 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 4
   - block: collection
     content:
+      count: 20
       title: Publications
       text: ""
       filters:

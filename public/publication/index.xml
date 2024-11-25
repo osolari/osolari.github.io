@@ -5,7 +5,7 @@
     <link>//localhost:1313/publication/</link>
       <atom:link href="//localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Nov 2024 20:59:41 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
@@ -13,11 +13,152 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>//localhost:1313/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;//localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <title>Pattern of DNA methylation in Daphnia</title>
+      <link>//localhost:1313/publication/kvistpattern/</link>
+      <pubDate>Sun, 24 Nov 2024 20:59:41 +0000</pubDate>
+      <guid>//localhost:1313/publication/kvistpattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circulating differential methylation allele fraction (DMAF) strongly correlates with circulating tumor DNA (ctDNA) variant allele fraction (VAF)</title>
+      <link>//localhost:1313/publication/srinivasan-2024-circulating/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/srinivasan-2024-circulating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of colorectal cancer (CRC) characteristics across genetic ancestries: Implications for early cancer detection (ECD).</title>
+      <link>//localhost:1313/publication/myer-2024-comparison/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/myer-2024-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive analysis of differentially methylated regions in colorectal cancer (CRC).</title>
+      <link>//localhost:1313/publication/solari-2024-comprehensive/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/solari-2024-comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sa1175 COMPARISON OF COLORECTAL CANCER (CRC) CHARACTERISTICS ACROSS GENETIC ANCESTRIES: IMPLICATIONS FOR EARLY CANCER DETECTION</title>
+      <link>//localhost:1313/publication/myer-2024-sa-1175/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/myer-2024-sa-1175/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tail Probability Estimation of Factor Models with Regularly-Varying Tails: Asymptotics and Efficient Estimation</title>
+      <link>//localhost:1313/publication/pourbabaee-2022-tail/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/pourbabaee-2022-tail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell-free DNA fragments inform epigenomic mechanisms for early detection of breast cancer</title>
+      <link>//localhost:1313/publication/gafni-2021-cell/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/gafni-2021-cell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BLOCCS: Block Sparse Canonical Correlation Analysis With Application To Interpretable Omics Integration</title>
+      <link>//localhost:1313/publication/shams-2019-bloccs/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/shams-2019-bloccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BLOCCS: Block Sparse Canonical Correlation Analysis With Application To Interpretable Omics Integration</title>
+      <link>//localhost:1313/publication/solari-2019-bloccs/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/solari-2019-bloccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting regulatory heterogeneity to systematically identify enhancers with high accuracy</title>
+      <link>//localhost:1313/publication/arbel-2019-exploiting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/arbel-2019-exploiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Deviations of Linear Models with Regularly-Varying Tails: Asymptotics and Efficient Estimation</title>
+      <link>//localhost:1313/publication/pourbabaee-2019-large/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/pourbabaee-2019-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-Scale Interpretable Multi-View Learning for Very High-Dimensional Problems with</title>
+      <link>//localhost:1313/publication/shams-2019-large/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/shams-2019-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-Scale Interpretable Multi-View Learning for Very High-Dimensional Problems with Application to Multi-Omic Data</title>
+      <link>//localhost:1313/publication/solari-2019-large/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/solari-2019-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse canonical correlation analysis via concave minimization</title>
+      <link>//localhost:1313/publication/solari-2019-sparse/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/solari-2019-sparse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early transcriptional response pathways in Daphnia magna are coordinated in networks of crustacean-specific genes</title>
+      <link>//localhost:1313/publication/orsini-2018-early/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/orsini-2018-early/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern of DNA methylation in Daphnia: evolutionary perspective</title>
+      <link>//localhost:1313/publication/kvist-2018-pattern/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/kvist-2018-pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daphnia magna transcriptome by RNA-Seq across 12 environmental stressors</title>
+      <link>//localhost:1313/publication/orsini-2016-daphnia/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/orsini-2016-daphnia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>//localhost:1313/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -31,7 +172,7 @@
     <item>
       <title>An example journal article</title>
       <link>//localhost:1313/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Sep 2000 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
@@ -50,16 +191,11 @@
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>//localhost:1313/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
+      <title>An example preprint / working paper</title>
+      <link>//localhost:1313/publication/preprint/</link>
+      <pubDate>Fri, 07 Apr 2000 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;//localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
