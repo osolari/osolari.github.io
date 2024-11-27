@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "PostMoDisco: A Deep Attention-Based Model for In-Silico Prediction of Post-Translational Modifications from Short Peptides "
 authors:
 - admin
-date: "2000-04-07T00:00:00Z"
+date: "2024-10-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,20 +24,21 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Large Language Models
+- DNA Language Models
 
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+#- name: Custom Link
+#  url: http://example.org
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/osolari/postmodisco'
 url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
