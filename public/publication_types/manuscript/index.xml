@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuscript | Omid Shams Solari</title>
+    <link>//localhost:1313/publication_types/manuscript/</link>
+      <atom:link href="//localhost:1313/publication_types/manuscript/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuscript</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Manuscript</title>
+      <link>//localhost:1313/publication_types/manuscript/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of colorectal cancer (CRC) characteristics across genetic ancestries: Implications for early cancer detection (ECD).</title>
+      <link>//localhost:1313/publication/myer-2024-comparison/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/myer-2024-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive analysis of differentially methylated regions in colorectal cancer (CRC).</title>
+      <link>//localhost:1313/publication/solari-2024-comprehensive/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/solari-2024-comprehensive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
