@@ -48,9 +48,10 @@ sections:
         folders:
           - publication
         featured_only: true
+      count: 5
     design:
       view: article-grid
-      columns: 4
+      columns: 3
   - block: collection
     content:
       count: 20
