@@ -1,8 +1,8 @@
 ---
-title: "PostMoDisco: A Deep Attention-Based Model for In-Silico Prediction of Post-Translational Modifications from Short Peptides "
+title: "PostMoDisco: A Semi-Supervised Multi-Modal U-Transformer Model for In-Silico Prediction of Post-Translational Modifications "
 authors:
 - admin
-date: "2024-10-07T00:00:00Z"
+date: "2024-11-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,10 +17,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: I developed a U-transformer model trained on publicly available sequences to predict post-translational modifications using sequence and geometric information of input peptides. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: I developed a U-transformer model trained on publicly available sequences to predict post-translational modifications using sequence and geometric information of input peptides.
 
 tags:
 - Large Language Models

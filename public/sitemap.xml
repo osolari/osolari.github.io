@@ -50,12 +50,20 @@
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:1313/projects/</loc>
-    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/publication_types/article-journal/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:1313/publication_types/article-journal/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/source-themes/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/publication/xplora/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/projects/</loc>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/publication/srinivasan-2024-circulating/</loc>
@@ -259,14 +267,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/publication/firthpower/</loc>
-    <lastmod>2000-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/publication/tcrmine/</loc>
-    <lastmod>2000-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/tags/source-themes/</loc>
     <lastmod>2000-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

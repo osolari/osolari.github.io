@@ -1,7 +1,7 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: Self-Attention vs Cross-Attention
+summary: In-Depth Tutorial on Self- vs Cross- Attention Mechanisms
+date: 2024-10-26
 authors:
   - admin
 tags:
