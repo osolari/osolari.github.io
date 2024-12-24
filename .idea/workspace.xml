@@ -5,32 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c3c0e07-5303-42b6-9108-153df5f5d143" name="Changes" comment="added papers">
-      <change afterPath="$PROJECT_DIR$/content/post/cross_attention/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/epigenetic_age/featured.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/ugans/featured.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/ugans/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/ugans/line-chart.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/ugans/results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/project/ml_from_scratch/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/data-visualization/featured.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/methyl-suite/featured.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/data-visualization/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/methyl-suite/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/data-visualization/line-chart.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/methyl-suite/line-chart.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/data-visualization/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/methyl-suite/results.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/get-started/featured.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/separation/featured.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/get-started/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/separation/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/project-management/featured.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/plms/featured.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/project-management/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/plms/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/second-brain/featured.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/cross_attention/featured.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/second-brain/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/epigenetic_age/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/bayesbreak/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/bayesbreak/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/ctoo/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/ctoo/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/firthpower/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/firthpower/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/postmodisco/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/postmodisco/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/xplora/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/xplora/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/menus.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/menus.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/consulting/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/consulting/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/consulting/js/ambient-piano.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/consulting/js/featured.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/consulting/js/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/consulting/python/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/consulting/python/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/project/pandas/featured.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/project/ml_from_scratch/featured.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/project/pandas/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/project/pytorch/featured.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/project/pytorch/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/project/scikit/featured.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/project/dl_from_scratch/featured.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/project/scikit/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/project/dl_from_scratch/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hugo_stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/hugo_stats.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/consulting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/consulting/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/consulting/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/consulting/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/consulting/js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/consulting/js/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/consulting/python/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/consulting/python/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/event/example/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/event/example/index.html" afterDir="false" />
@@ -38,14 +31,11 @@
       <change beforePath="$PROJECT_DIR$/public/experience/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/experience/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/data-visualization/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/data-visualization/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/get-started/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/get-started/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/post/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/project-management/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/project-management/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/second-brain/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/second-brain/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/post/teach-courses/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/teach-courses/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/project/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/project/pandas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/project/pandas/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/project/pytorch/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/project/pytorch/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/project/scikit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/project/scikit/index.html" afterDir="false" />
@@ -81,30 +71,41 @@
       <change beforePath="$PROJECT_DIR$/public/publication_types/article-journal/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/publication_types/article-journal/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/publication_types/article-journal/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/publication_types/article-journal/page/2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/publication_types/article/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/publication_types/article/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/publication_types/article/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/publication_types/article/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/publication_types/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/publication_types/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/publication_types/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/publication_types/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/publication_types/manuscript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/publication_types/manuscript/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/publication_types/paper-conference/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/publication_types/paper-conference/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/publication_types/paper-conference/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/publication_types/paper-conference/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/publication_types/thesis/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/publication_types/thesis/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/academic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/academic/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/dna-language-models/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/dna-language-models/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/dna-language-models/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/dna-language-models/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/hugo-blox-builder/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/hugo-blox-builder/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/hugo-blox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/hugo-blox/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/hugo-blox/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/hugo-blox/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/hugo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/hugo/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/hugo/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/hugo/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/javascript/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/javascript/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/javascript/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/large-language-models/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/large-language-models/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/large-language-models/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/large-language-models/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/markdown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/markdown/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/markdown/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/markdown/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/matrix-decomposition/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/matrix-decomposition/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/matrix-decomposition/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/matrix-decomposition/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/python/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/python/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/python/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/python/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/second-brain/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/second-brain/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/second-brain/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/second-brain/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/source-themes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/source-themes/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/source-themes/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/source-themes/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/statistical-learning/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/statistical-learning/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/statistical-learning/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/statistical-learning/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/vision-transformers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/vision-transformers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/vision-transformers/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/vision-transformers/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/wowchemy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/wowchemy/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/teaching/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/teaching/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/teaching/js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/teaching/js/index.html" afterDir="false" />
@@ -133,7 +134,7 @@
     "git-widget-placeholder": "master",
     "javascript.nodejs.core.library.configured.version": "20.15.0",
     "javascript.nodejs.core.library.typings.version": "20.15.0",
-    "last_opened_file_path": "/Users/omid/workspace/projects/osolari.github.io/content/post",
+    "last_opened_file_path": "/Users/omid/workspace/projects/osolari.github.io/content",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -145,6 +146,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content" />
       <recent name="$PROJECT_DIR$/content/post" />
       <recent name="$PROJECT_DIR$/content/publication" />
       <recent name="$PROJECT_DIR$/content/project" />
@@ -167,7 +169,7 @@
       <option name="presentableId" value="Default" />
       <updated>1732773056419</updated>
       <workItem from="1732773057724" duration="11897000" />
-      <workItem from="1734216054631" duration="3594000" />
+      <workItem from="1734216054631" duration="9526000" />
     </task>
     <task id="LOCAL-00001" summary="added papers">
       <option name="closed" value="true" />
@@ -185,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733118201654</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added papers">
+      <option name="closed" value="true" />
+      <created>1734727392902</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734727392902</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

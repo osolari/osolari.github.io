@@ -1,11 +1,13 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
+title: Learn About sAIm
+summary: Get to know sAIm!
 date: 2023-10-24
 type: docs
 math: false
 tags:
-  - Python
+  - consulting
+  - AI
+  - Statistics
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

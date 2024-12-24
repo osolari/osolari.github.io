@@ -5,7 +5,7 @@
     <link>//localhost:1313/tags/statistical-learning/</link>
       <atom:link href="//localhost:1313/tags/statistical-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Statistical Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Statistical Learning</title>
@@ -15,7 +15,7 @@
     <item>
       <title>AntigenBinder: An End-To-End Framework for Neo-Antigen Immunogenicity Likelihood Estimation</title>
       <link>//localhost:1313/publication/antigen_binder/</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/publication/antigen_binder/</guid>
       <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;//localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;

@@ -5,7 +5,7 @@
     <link>//localhost:1313/tags/dna-language-models/</link>
       <atom:link href="//localhost:1313/tags/dna-language-models/index.xml" rel="self" type="application/rss+xml" />
     <description>DNA Language Models</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>DNA Language Models</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>PostMoDisco: A Deep Attention-Based Model for In-Silico Prediction of Post-Translational Modifications from Short Peptides </title>
+      <title>PostMoDisco: A Semi-Supervised Multi-Modal U-Transformer Model for In-Silico Prediction of Post-Translational Modifications </title>
       <link>//localhost:1313/publication/postmodisco/</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/publication/postmodisco/</guid>
       <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;//localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;

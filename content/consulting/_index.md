@@ -1,7 +1,8 @@
 ---
-title: Teaching
+title: consulting
 summary: My courses
 type: landing
+external_link: https://github.com/osolari/dl_from_scratch
 
 cascade:
   - _target:
@@ -11,13 +12,13 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: consulting
     content:
-      title: Teaching
+      title: sAIm Consulting LLC.
       filters:
         folders:
-          - teaching
+          - consulting
     design:
       view: article-grid
-      columns: 2
+      columns: 1
 ---

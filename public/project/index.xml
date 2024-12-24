@@ -13,27 +13,21 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>//localhost:1313/project/pandas/</link>
+      <title>Deep Learning</title>
+      <link>//localhost:1313/project/dl_from_scratch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <guid>//localhost:1313/project/dl_from_scratch/</guid>
+      <description>&lt;p&gt;Pytorch Lightning implementation of well-known neural network structures.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>//localhost:1313/project/pytorch/</link>
+      <title>Machine Learning From Scratch</title>
+      <link>//localhost:1313/project/ml_from_scratch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>//localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <guid>//localhost:1313/project/ml_from_scratch/</guid>
+      <description>&lt;p&gt;Python implementation of common machine learning algorithms.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
